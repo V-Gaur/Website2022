@@ -37,8 +37,6 @@ superuser: true
 title: Vasundhara Gaur
 ---
 
-Hello! I'm Vasu.
-
 I am currently a postdoctoral researcher at the University of British Columbia in the Faculty of Land and Food Systems.
 
 I completed my PhD in July 2021 under the supervision of Dr. Corey Lang at the University of Rhode Island in the Environmental and Natural Resource Economics department.

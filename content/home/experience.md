@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work and Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral researcher
+    company: University of British Columbia
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-ubc
+    location: Vancouver, BC, Canada
+    date_start: '2021-07-12'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Project: Estimating the local and global impacts of genetically modified (GM) crop adoption on agricultural and environmental outcomes.
+        Software used:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * R (data analysis)
+        * Python (data scraping)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: University of Rhode Island
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-uri
+    location: Kingston, Rhode Island, USA
+    date_start: '2016-08-01'
+    date_end: '2021-06-31'
+    description: |2-
+        Projects: Several, including (but not limited to) non-market valuation of renewable energy using revealed and stated preference methods (primary and secondary data collection), causal inference regressions, and spatial analysis. 
+        Skills and software:
+        
+        * Stata (data analysis)
+        * Qualtrics (survey design, data collection)
+        * ArcGIS (spatial data analysis)
+        * QGIS (spatial data analysis)
+        * Tableau (data visualization)
+        * Grant writing
+        * Focus groups
+
+  - title: Teaching Assistant
+    company: University of Rhode Island
+    company_url: ''
+    company_logo: org-uri
+    location: Kingston, Rhode Island, USA
+    date_start: '2017-08-01'
+    date_end: '2017-12-31'
+    description: 
+        Sole instructor of first-year graduate-level introductory mathematics course.
+
 
 design:
   columns: '2'
