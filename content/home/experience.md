@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07-12'
     date_end: ''
     description: |2-
-        Project: Estimating the local and global impacts of genetically modified (GM) crop adoption on agricultural and environmental outcomes.
+        Project: Estimating the local and global impacts of genetically modified (GM)         crop adoption on agricultural and environmental outcomes.
         Software used:
         
         * R (data analysis)
@@ -44,7 +44,7 @@ experience:
     date_start: '2016-08-01'
     date_end: '2021-06-31'
     description: |2-
-        Projects: Several, including (but not limited to) non-market valuation of renewable energy using revealed and stated preference methods (primary and secondary data collection), causal inference regressions, and spatial analysis. 
+        Projects: Several, including (but not limited to) non-market valuation of            renewable energy using revealed and stated preference methods (primary and           secondary data collection), causal inference regressions, and spatial                analysis. 
         Skills and software:
         
         * Stata (data analysis)
@@ -67,5 +67,5 @@ experience:
 
 
 design:
-  columns: '3'
+  columns: '2'
 ---
