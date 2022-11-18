@@ -1,5 +1,5 @@
 ---
-active: false
+# active: false
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Work and Research Experience
+title: Experience
 subtitle:
 
 # Date format for experience
