@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral researcher
     company: University of British Columbia
     company_url: ''
-    company_logo: org-ubc
+    company_logo: org-ubcsmall
     location: Vancouver, BC, Canada
     date_start: '2021-07-12'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: University of Rhode Island
     company_url: ''
-    company_logo: org-uri
+    company_logo: org-urismall
     location: Kingston, Rhode Island, USA
     date_start: '2016-08-01'
     date_end: '2021-06-31'
@@ -58,7 +58,7 @@ experience:
   - title: Teaching Assistant
     company: University of Rhode Island
     company_url: ''
-    company_logo: org-uri
+    company_logo: org-urismall
     location: Kingston, Rhode Island, USA
     date_start: '2017-08-01'
     date_end: '2017-12-31'
