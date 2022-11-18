@@ -41,7 +41,7 @@ experience:
     company_url: ''
     location: Kingston, Rhode Island, USA
     date_start: '2016-08-01'
-    date_end: '2021-06-31'
+    date_end: '2021-06-30'
     description: |2-
         Projects: Several, including (but not limited to) non-market valuation of            renewable energy using revealed and stated preference methods (primary and           secondary data collection), causal inference regressions, and spatial                analysis. 
         Skills and software:
