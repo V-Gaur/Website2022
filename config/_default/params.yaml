@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: classic
+  font_size: m
 
 # SEO
 
@@ -57,12 +57,12 @@ locale:
   time_format: '3:04 PM'
   address_format: en-us
 
-# Site features
+# Site features, github-light, dracula
 
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    theme_dark: github-dark
   math:
     enable: false
   privacy_pack:
