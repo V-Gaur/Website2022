@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 # tags:
-# - Source Themes
+- Source Themes
 title: House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices
 
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
