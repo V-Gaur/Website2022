@@ -2,8 +2,8 @@
 name = "my_theme_d"
 
 [dark]
-  # Primary
-  primary = "#9be7ff"
+  # Primary hyperlink and icon colors 9be7ff 
+  primary = "#290E01"
 
   # Menu
   menu_primary = "#001625"
@@ -13,5 +13,5 @@ name = "my_theme_d"
 
   # Home sections
   home_section_odd = "#011C2A"
-  home_section_even = "#01222E"
+  home_section_even = "#001625"
 
