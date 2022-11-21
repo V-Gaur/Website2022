@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: forest
-  theme_night: forest
+  theme_night: mr_robot
   font: rose
-  font_size: s
+  font_size: m
 
 # SEO
 
