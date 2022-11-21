@@ -15,7 +15,7 @@ email: ""
 first_name: Vasundhara
 highlight_name: true
 interests:
-- Energy economics
+- Applied economics
 - Causal inference
 - Policy relevant analysis
 last_name: Gaur
@@ -42,3 +42,5 @@ I am currently a postdoctoral researcher at the University of British Columbia i
 I completed my PhD in July 2021 under the supervision of Dr. Corey Lang at the University of Rhode Island in the Environmental and Natural Resource Economics department.
 
 I am an applied economist, with a strong background and research interests in Environmental Economics, particularly policy relevant analysis and non-market valuation using both revealed and stated preference methods, and causal inference techniques.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/VGaur_Oct22.pdf" "newtab" >}}CV{{< /staticref >}}.
