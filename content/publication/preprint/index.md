@@ -9,9 +9,9 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -20,11 +20,11 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# tags:
 # - Source Themes
-title: House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices 
+title: House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices
 
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: '#'
