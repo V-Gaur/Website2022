@@ -14,3 +14,4 @@ name = "my_theme_d"
   # Home sections
   home_section_odd = "#011C2A"
   home_section_even = "#01222E"
+
