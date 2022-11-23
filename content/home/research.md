@@ -57,5 +57,3 @@ Dong, L., **Gaur, V.**, Lang, C., "Property Value Impacts of Onshore Wind Energy
 **Gaur, V.**, Howard, G., Lang, C., Quainoo, R., Are the loudest voices in the room different? Testing preferences for engaged versus random samples. [Abstract](uploads/Abstract_Engaged.pdf)
 
 Lang, C., **Gaur, V.**, Erlacher, S., Is it NIMBYism or Land Use Priorities that Drive Utility-Scale Solar Siting Preferences? Evidence from a Municipal Referendum. [Abstract](uploads/Abstract_SolarNK.pdf) 
-
-<br>
