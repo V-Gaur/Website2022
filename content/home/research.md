@@ -36,7 +36,7 @@ design:
 
 ## Publications
 
-**Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (forthcoming). ["When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting."] Land Economics
+**Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (forthcoming). ["When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting."] (uploads/LandEcon.pdf) Land Economics
 
 Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (2020). ["How Are Tourists Affected By Offshore Wind Turbines? A Case Study Of The First US Offshore Wind Farm.](https://cbe.miis.edu/cgi/viewcontent.cgi?article=1127&context=joce) Journal of Ocean and Coastal Economics, 7(1), 1.
 
@@ -46,11 +46,14 @@ Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (20
 
 ## Manuscripts under Review
 
-**Gaur, V.**, Lang, C., "House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices." -- Revise and resubmit: Energy Economics [*Draft Available upon Request*]
+**Gaur, V.**, Lang, C., "House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices." -- Revise and resubmit: Energy Economics 
+[*Draft Available upon Request*]
 
-Quainoo, R., Howard, G., **Gaur, V.**, Lang, C., "Model Choice and Framing Effects: Does Discrete Choice Modeling Affect Loss Aversion Estimates?" -- Revise and resubmit: Environmental and Resource Economics [*Draft Available upon Request*]
+Quainoo, R., Howard, G., **Gaur, V.**, Lang, C., "Model Choice and Framing Effects: Does Discrete Choice Modeling Affect Loss Aversion Estimates?" -- Revise and resubmit: Environmental and Resource Economics 
+[*Draft Available upon Request*]
 
-Dong, L., **Gaur, V.**, Lang, C., "Property Value Impacts of Onshore Wind Energy in New England: Redux." -- Under review: Energy Policy [*Draft Available upon Request*]
+Dong, L., **Gaur, V.**, Lang, C., "Property Value Impacts of Onshore Wind Energy in New England: Redux." -- Under review: Energy Policy 
+[*Draft Available upon Request*]
 
 <br>
 
@@ -62,3 +65,4 @@ Dong, L., **Gaur, V.**, Lang, C., "Property Value Impacts of Onshore Wind Energy
 
 Lang, C., **Gaur, V.**, Erlacher, S., Is it NIMBYism or Land Use Priorities that Drive Utility-Scale Solar Siting Preferences? Evidence from a Municipal Referendum. [Abstract](uploads/Abstract_SolarNK.pdf) 
 
+<br>

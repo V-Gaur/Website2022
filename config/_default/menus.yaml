@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#Research'
+    url: '#research'
     weight: 20
   - name: Experience
-    url: '#Experience'
+    url: '#experience'
     weight: 30
   - name: Softwares
-    url: '#Softwares'
+    url: '#skills'
     weight: 40    
   - name: In the News
     url: '#posts'
