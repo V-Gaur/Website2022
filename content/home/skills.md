@@ -1,4 +1,5 @@
 ---
+# active: false
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
@@ -7,7 +8,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Skills
 subtitle:
@@ -29,10 +30,19 @@ feature:
     icon_pack: custom
     name: Python
   - description: Proficient
-    icon: latex
+    icon: arcgis
     icon_pack: custom
-    name: Latex
-
+    name: ArcGIS
+  - description: Proficient
+    icon: qgis
+    icon_pack: custom
+    name: QGIS
+  - description: Beginner
+    icon: tableau
+    icon_pack: custom
+    name: Tableau
+    
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
