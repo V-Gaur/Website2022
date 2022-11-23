@@ -7,12 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Research
+    url: '#Research'
+    weight: 20
+  - name: Experience
+    url: '#Experience'
+    weight: 30
+  - name: Softwares
+    url: '#Softwares'
+    weight: 40    
   - name: In the News
     url: '#posts'
-    weight: 20
-  - name: Publications
-    url: '#featured'
-    weight: 50
+    weight: 50    
   - name: Contact
     url: '#contact'
     weight: 60
