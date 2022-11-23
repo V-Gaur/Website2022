@@ -1,5 +1,4 @@
 ---
-active: false
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -12,6 +11,13 @@ weight: 30
 
 title: Research
 subtitle: ''
+
+content:
+  # Page type to display. E.g. project.
+  page_type: project
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -27,7 +33,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
 ## Publications
 
 **Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (forthcoming). ["When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting."](uploads/LandEcon.pdf) Land Economics
