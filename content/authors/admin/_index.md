@@ -14,7 +14,7 @@ education:
 email: ""
 first_name: Vasundhara
 highlight_name: true
-Competencies/Interests:
+Interests:
 - Applied economics 
 - Econometric analysis
 - Survey design, analysis
