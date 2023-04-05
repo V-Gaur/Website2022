@@ -16,12 +16,12 @@ first_name: Vasundhara
 highlight_name: true
 Competencies/Interests:
 - Applied economics 
-- Econometric/Quantitative data analysis
+- Econometric/Quantitative analysis
 - Survey design, analysis
 - Policy relevant analysis
 - Geo-spatial analysis
 - Nonmarket valuation
-- Environment, Land-use, Natural resources
+- Environment, Land-use, Resources
 last_name: Gaur
 organizations:
 - name: University of British Columbia
