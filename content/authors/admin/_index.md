@@ -20,8 +20,8 @@ Competencies/Interests:
 - Survey design, analysis
 - Policy relevant analysis
 - Geo-spatial analysis
-- Nonmarket valuation (revealed and stated preferences)
-- Energy, Environment, Land-use, Natural resources
+- Nonmarket valuation
+- Environment, Land-use, Natural resources
 last_name: Gaur
 organizations:
 - name: University of British Columbia
