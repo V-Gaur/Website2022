@@ -16,11 +16,12 @@ first_name: Vasundhara
 highlight_name: true
 Interests:
 - Applied economics 
-- Econometric analysis
+- Econometric/Quantitative data analysis
 - Survey design, analysis
 - Policy relevant analysis
 - Geo-spatial analysis
-- Nonmarket valuation
+- Nonmarket valuation (revealed, stated preferences)
+- Energy, Environment, Land-use, Natural resources
 last_name: Gaur
 organizations:
 - name: University of British Columbia
