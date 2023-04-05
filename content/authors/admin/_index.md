@@ -14,10 +14,14 @@ education:
 email: ""
 first_name: Vasundhara
 highlight_name: true
-interests:
-- Applied economics
-- Causal inference
+Competencies/Interests:
+- Applied economics 
+- Econometric/Quantitative data analysis
+- Survey design, analysis
 - Policy relevant analysis
+- Geo-spatial analysis
+- Nonmarket valuation (revealed and stated preferences)
+- Energy, Environment, Land-use, Natural resources
 last_name: Gaur
 organizations:
 - name: University of British Columbia
