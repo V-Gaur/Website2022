@@ -35,23 +35,21 @@ design:
 ---
 ## Publications
 
-**Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (forthcoming). ["When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting."](uploads/LandEcon.pdf) Land Economics
+**Gaur, V.**, Lang, C. (2023). [House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices.](https://www.sciencedirect.com/science/article/pii/S0140988323001974?casa_token=-RXR1ME0nEIAAAAA:PosDyD6JwW8II9qSl4nQr0lBl1mwbB4Vs2TYZMKMQpiz3WZR7KpGGkfnueqW_SVZ1Nr6-lwFKg) *Energy Economics*, 122, 106699.
 
-Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (2020). ["How Are Tourists Affected By Offshore Wind Turbines? A Case Study Of The First US Offshore Wind Farm."](https://cbe.miis.edu/cgi/viewcontent.cgi?article=1127&context=joce) Journal of Ocean and Coastal Economics, 7(1), 1.
+Dong, L., **Gaur, V.**, Lang, C. (2023). [Property Value Impacts of Onshore Wind Energy in New England: The Importance of Spatial Heterogeneity and Temporal Dynamics.](https://www.sciencedirect.com/science/article/pii/S0301421523002288?casa_token=fxPnlrq0l1EAAAAA:oCI4JALBzhzcumPx6NFqvjSUunl8-bxXDOryNyIihmtSJS_0VWOiRnz6ol787VkqSud-y99N-Q) *Energy Policy*, 179, 113643.
 
-**Gaur, V.**, & Gupta, E. (2016). ["The determinants of Electricity Theft: An Empirical Analysis of Indian States."](https://www.sciencedirect.com/science/article/pii/S0301421516300878?casa_token=Dq6HjRliVtAAAAAA:SrViZpmz6gBMeUDxh07ruBk8VF0cdpR5n5yIdhPb5H2EYvjQU_cQQ4IWjgjfYqnxJiqw2H6_jQ) Energy Policy, 93, 127-136.
+**Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (2022). [When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting.](https://le.uwpress.org/content/99/3/343) *Land Economics*, 99(3), 343-363.
+
+Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (2020). [How Are Tourists Affected By Offshore Wind Turbines? A Case Study Of The First US Offshore Wind Farm.](https://cbe.miis.edu/cgi/viewcontent.cgi?article=1127&context=joce) *Journal of Ocean and Coastal Economics*, 7(1), 1.
+
+**Gaur, V.**, & Gupta, E. (2016). [The determinants of Electricity Theft: An Empirical Analysis of Indian States.](https://www.sciencedirect.com/science/article/pii/S0301421516300878?casa_token=Dq6HjRliVtAAAAAA:SrViZpmz6gBMeUDxh07ruBk8VF0cdpR5n5yIdhPb5H2EYvjQU_cQQ4IWjgjfYqnxJiqw2H6_jQ) *Energy Policy*, 93, 127-136.
 
 <br>
 
 ## Manuscripts under Review
 
-**Gaur, V.**, Lang, C., "House of the Rising Sun: The Effect of Utility-Scale Solar Arrays on Housing Prices." -- Revise and resubmit: Energy Economics 
-[*Draft Available upon Request*]
-
-Quainoo, R., Howard, G., **Gaur, V.**, Lang, C., "Model Choice and Framing Effects: Does Discrete Choice Modeling Affect Loss Aversion Estimates?" -- Revise and resubmit: Environmental and Resource Economics 
-[*Draft Available upon Request*]
-
-Dong, L., **Gaur, V.**, Lang, C., "Property Value Impacts of Onshore Wind Energy in New England: Redux." -- Under review: Energy Policy 
+Quainoo, R., Howard, G., **Gaur, V.**, Lang, C., "Model Choice and Framing Effects: Do Discrete Choice Modeling Decisions Affect Loss Aversion Estimates?" -- Under review: Journal of Choice Modelling 
 [*Draft Available upon Request*]
 
 <br>
