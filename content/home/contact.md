@@ -25,18 +25,18 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-  email: vasu.gaur@ubc.ca
-  phone: (672) 515-4475
+  email: vasundhara.gaur@nyu.edu
+  phone: (551) 229-6723
   address:
-    street: 336B, MacMillan Building, 2357 Main Mall 
-    city: Vancouver
-    region: BC
-    postcode: 'V6T 1Z4'
-    country: Canada
-    country_code: CA
+    street: Wilf Hall, 139 MacDougal St, 3rd Floor 
+    city: New York
+    region: NY
+    postcode: '10012'
+    country: USA
+    country_code: USA
   coordinates:
-    latitude: '49.261080'
-    longitude: '-123.250967'
+    latitude: '40.7309166667'
+    longitude: '-73.9998888889'
 
 design:
   columns: '2'

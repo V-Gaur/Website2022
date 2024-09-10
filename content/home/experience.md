@@ -22,14 +22,23 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Economic Fellow, Energy and Environmental Justice
+    company: Institute for Policy Integrity, NYU School of Law
+    company_url: 'https://policyintegrity.org/'
+    company_logo: org-ubcsmall
+    location: New York, NY, USA
+    date_start: '2023-10-23'
+    date_end: ''
+    
   - title: Postdoctoral researcher
     company: University of British Columbia
     company_url: ''
     company_logo: org-ubcsmall
     location: Vancouver, BC, Canada
     date_start: '2021-07-12'
-    date_end: ''
+    date_end: '2023-08-30'
     description: |2-
         Project: Estimating the local and global impacts of genetically modified (GM)         crop adoption on agricultural and environmental outcomes.
         Software used:
