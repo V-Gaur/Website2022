@@ -31,6 +31,9 @@ experience:
     location: New York, NY, USA
     date_start: '2023-10-23'
     date_end: ''
+    description: |2-
+        * Authored a guiding document advising agencies on how they can analyze and account for distributional issues in rules and regulations, and how communities and stakeholders can engage with the rulemaking process. 
+        * Co-authored four comment letters providing recommendations to various state and federal agencies regarding distributional and environmental justice issues. 
     
   - title: Postdoctoral researcher
     company: University of British Columbia
@@ -40,7 +43,7 @@ experience:
     date_start: '2021-07-12'
     date_end: '2023-08-30'
     description: |2-
-        Project: Estimating the local and global impacts of genetically modified (GM)         crop adoption on agricultural and environmental outcomes.
+        Project: Estimating the local and global impacts of genetically modified (GM) crop adoption on agricultural and environmental outcomes.
         Software used:
         
         * R (data analysis)
@@ -54,7 +57,7 @@ experience:
     date_start: '2016-08-01'
     date_end: '2021-06-30'
     description: |2-
-        Projects: Several, including (but not limited to) non-market valuation of            renewable energy using revealed and stated preference methods (primary and           secondary data collection), causal inference regressions, and spatial                analysis. 
+        Projects: Several, including (but not limited to) non-market valuation of            renewable energy using revealed and stated preference methods (primary and secondary data collection), causal inference regressions, and spatial analysis. 
         Skills and software:
         
         * Stata (data analysis)
