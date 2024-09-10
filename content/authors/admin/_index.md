@@ -24,9 +24,9 @@ Interests:
 - Energy, Environment, Land-use, Natural resources
 last_name: Gaur
 organizations:
-- name: University of British Columbia
-  url: https://www.ubc.ca/
-role: Postdoctoral Researcher
+- name: New York University (NYU) School of Law
+  url: https://www.law.nyu.edu/
+role: Economic Fellow, Energy and Environmental Justice
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,10 +41,10 @@ superuser: true
 title: Vasundhara Gaur
 ---
 
-I am currently a postdoctoral researcher at the University of British Columbia in the Faculty of Land and Food Systems.
+I am currently an Economic Fellow at the Institute for Policy Integrity at the New York University (NYU) School of Law.
 
 I completed my PhD in July 2021 under the supervision of Dr. Corey Lang at the University of Rhode Island in the Environmental and Natural Resource Economics department.
 
 I am an applied economist, with a strong background and research interests in Environmental Economics, particularly policy relevant analysis and non-market valuation using both revealed and stated preference methods, and causal inference techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_GaurV_July2023.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sept2024.pdf" "newtab" >}}CV{{< /staticref >}}.
