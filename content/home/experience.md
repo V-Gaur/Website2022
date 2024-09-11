@@ -27,7 +27,7 @@ experience:
   - title: Economic Fellow, Energy and Environmental Justice
     company: Institute for Policy Integrity, NYU School of Law
     company_url: 'https://policyintegrity.org/'
-    company_logo: org-ubcsmall
+    company_logo: org-pismall
     location: New York, NY, USA
     date_start: '2023-10-23'
     date_end: ''
