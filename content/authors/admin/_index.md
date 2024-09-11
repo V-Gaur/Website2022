@@ -27,7 +27,7 @@ organizations:
 - name: New York University (NYU) School of Law
   url: https://www.law.nyu.edu/
 role: Economic Fellow 
-Energy and Environmental Justice
+      Energy and Environmental Justice
 social:
 - icon: envelope
   icon_pack: fas
