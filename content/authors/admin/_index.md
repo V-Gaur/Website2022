@@ -47,4 +47,4 @@ I completed my PhD in July 2021 under the supervision of Dr. Corey Lang at the U
 
 I am an applied economist, with a strong background and research interests in Environmental Economics, particularly policy relevant analysis, distributional and environmental justice issues, and non-market valuation using both revealed and stated preference methods, and causal inference techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sept25_2024" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sept25_2024.pdf" "newtab" >}}CV{{< /staticref >}}.
