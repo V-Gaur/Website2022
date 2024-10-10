@@ -43,7 +43,7 @@ Dong, L., **Gaur, V.**, Lang, C. (2023). [Property Value Impacts of Onshore Wind
 
 **Gaur, V.**, Howard, G., Lang, C., Quainoo, R. (2022). [When Energy Issues are Land Use Issues: Estimating Preferences for Utility-Scale Solar Energy Siting.](https://le.uwpress.org/content/99/3/343) *Land Economics*, 99(3), 343-363.
 
-Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (2020). [How Are Tourists Affected By Offshore Wind Turbines? A Case Study Of The First US Offshore Wind Farm.](https://cbe.miis.edu/cgi/viewcontent.cgi?article=1127&context=joce) *Journal of Ocean and Coastal Economics*, 7(1), 1.
+Trandafir, S., **Gaur, V.**, Behanan, P., Uchida, E., Lang, C., and Miao, H. (2020). [How Are Tourists Affected By Offshore Wind Turbines? A Case Study Of The First US Offshore Wind Farm.](https://cbe.miis.edu/joce/vol7/iss1/1/) *Journal of Ocean and Coastal Economics*, 7(1), 1.
 
 **Gaur, V.**, & Gupta, E. (2016). [The determinants of Electricity Theft: An Empirical Analysis of Indian States.](https://www.sciencedirect.com/science/article/pii/S0301421516300878?casa_token=Dq6HjRliVtAAAAAA:SrViZpmz6gBMeUDxh07ruBk8VF0cdpR5n5yIdhPb5H2EYvjQU_cQQ4IWjgjfYqnxJiqw2H6_jQ) *Energy Policy*, 93, 127-136.
 

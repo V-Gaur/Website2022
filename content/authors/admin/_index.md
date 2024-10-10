@@ -21,7 +21,7 @@ Interests:
 - Policy relevant analysis
 - Geo-spatial analysis
 - Nonmarket valuation (revealed, stated preferences)
-- Energy, Environment, Land-use, Natural resources
+- Renewable energy siting, Environmental Justice, Land-use, Natural resources
 last_name: Gaur
 organizations:
 - name: New York University (NYU) School of Law
